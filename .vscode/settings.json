@@ -1,5 +1,8 @@
 {
     "editor.inlayHints.enabled": "offUnlessPressed",
     "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 500
+    "files.autoSaveDelay": 500,
+    "rust-analyzer.linkedProjects": [
+        "./modmod/target/course/exercises/1-course-introduction/1-introduction/1-setup-your-installation/Cargo.toml"
+    ]
 }
